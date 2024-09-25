@@ -13,7 +13,7 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
-    main div asdfasdfasdf
+    main div asasdffasdfasdf
 <!--    <TheWelcome />-->
   </main>
 </template>
